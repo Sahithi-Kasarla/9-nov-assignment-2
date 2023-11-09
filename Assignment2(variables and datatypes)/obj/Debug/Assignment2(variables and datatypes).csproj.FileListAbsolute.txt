@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day 4\Assignment2(variables and datatypes)\Assignment2(variables and datatypes)\bin\Debug\Assignment2(variables and datatypes).exe.config
+C:\Users\Dell\source\Day 4\Assignment2(variables and datatypes)\Assignment2(variables and datatypes)\bin\Debug\Assignment2(variables and datatypes).exe
+C:\Users\Dell\source\Day 4\Assignment2(variables and datatypes)\Assignment2(variables and datatypes)\bin\Debug\Assignment2(variables and datatypes).pdb
+C:\Users\Dell\source\Day 4\Assignment2(variables and datatypes)\Assignment2(variables and datatypes)\obj\Debug\Assignment2(variables and datatypes).csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day 4\Assignment2(variables and datatypes)\Assignment2(variables and datatypes)\obj\Debug\Assignment2(variables and datatypes).csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day 4\Assignment2(variables and datatypes)\Assignment2(variables and datatypes)\obj\Debug\Assignment2(variables and datatypes).exe
+C:\Users\Dell\source\Day 4\Assignment2(variables and datatypes)\Assignment2(variables and datatypes)\obj\Debug\Assignment2(variables and datatypes).pdb
